@@ -1,5 +1,5 @@
 - 👋 Opa, bão ?
-- 👀 Aprendendo C e C++ por agora 
+- 👀 Aprendendo Phaser / JavaScript
 - 🌟 Fã de ficção científica 
 - 💞️ Quem puder me patrocina, fazendo favô
 - 💻 Ocupado, fazendo programa pra não precisar viver de programa
