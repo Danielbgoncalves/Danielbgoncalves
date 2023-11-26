@@ -1,9 +1,9 @@
-- 👋 Opa, bão ?
-- 👀 Aprendendo Phaser / JavaScript
-- 🌟 Fã de ficção científica 
-- 💞️ Quem puder me patrocina, fazendo favô
-- 💻 Ocupado, fazendo programa pra não precisar viver de programa
-- 🔍 Estudados: HTML, CSS, Js, SQL, C e C++
+- 👋 Opa, bão ?;
+- 👀 Aprendendo Phaser / JavaScript;
+- 🌟 Fã de ficção científica;
+- 💞️ Quem puder me patrocina, fazendo favô;
+- 💻 Ocupado, fazendo programa pra não precisar viver de programa;
+- 🔍 Estudados: HTML, CSS, Js, SQL, C e C++;
 
 <!---
 Danielbgoncalves/Danielbgoncalves is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
