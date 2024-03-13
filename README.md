@@ -1,8 +1,8 @@
 - 👋 Opa, bão ?;
+- 🌟 Mineiro br;
 - 👀 Aprendendo Phaser / JavaScript;
-- 🌟 Fã de ficção científica;
-- 💞️ Quem puder me patrocina, fazendo favô;
-- 💻 Ocupado, fazendo programa pra não precisar viver de programa;
+- 💞️ Quem puder me contrata, preciso de estágio;
+- 💻 Ocupado; fazendo programa pra não precisar viver de programa;
 - 🔍 Estudados: HTML, CSS, Js, SQL, C e C++;
 
 <!---
