@@ -1,7 +1,7 @@
-- 🌟 Mineiro br;
-- 👀 Aprendendo Phaser / JavaScript;
-- 💞️ Quem puder me contrata, preciso de estágio;
-- 🔍 Estudados: HTML, CSS, Js, SQL, C, Haskell;
+- Mineiro br;
+- Aprendendo Phaser / JavaScript;
+- Quem puder me contrata, preciso de estágio;
+- Estudados: HTML, CSS, Js, SQL, C, Haskell;
 
 <!---
 Danielbgoncalves/Danielbgoncalves is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
