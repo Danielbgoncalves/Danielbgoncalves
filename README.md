@@ -1,5 +1,5 @@
 - Mineiro br;
-- Aprendendo Phaser.js e Assembly;
+- Aprendendo Phaser.js, Matter.js e Assembly;
 - Quem puder me contrata, preciso de estágio;
 - Estudados: HTML, CSS, Js, SQL, C, Haskell;
 
