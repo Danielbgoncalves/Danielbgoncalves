@@ -1,7 +1,7 @@
-- Mineiro br;
-- Aprendendo Phaser.js, Matter.js e Assembly;
-- Quem puder me contrata, preciso de estágio;
-- Estudados: HTML, CSS, Js, SQL, C, Haskell;
+- Mineiro br
+- Aprendendo Node e Express Js (socorro)
+- Quem puder me contrata, preciso de estágio
+- Estudados: HTML, CSS, Js, SQL, C, Haskell
 
 <!---
 Danielbgoncalves/Danielbgoncalves is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
