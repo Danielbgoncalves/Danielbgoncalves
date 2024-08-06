@@ -1,5 +1,5 @@
 - Mineiro br
-- Aprendendo Node e Express Js (socorro)
+- Estudando Node-js e Express-js
 - Quem puder me contrata, preciso de estágio
 - Estudados: HTML, CSS, Js, SQL, C, Haskell
 
