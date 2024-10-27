@@ -2,8 +2,7 @@
 - Estudando Java e MIPS Assembly
 - Quem puder me contrata, preciso de estágio
 - Estudados: HTML, CSS, Js, SQL, C, Haskell
-- Phaser.js 😍
-- Node-js, Express-js e mongoDB 😀
+- EM Js: Phaser.js, Node.js, Express.js e mongoDB 
 
 <!---
 Danielbgoncalves/Danielbgoncalves is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
