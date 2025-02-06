@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 - Brazil: **Mineiro** apaixonado por tecnologia.
-- Aprendendo de **Java** e **Matlab**.
+- Aprendendo **Java** e **Matlab**.
 - Em busca de oportunidades de estágio para colocar em prática meus conhecimentos.
 
 #### Linguagens e Frameworks
