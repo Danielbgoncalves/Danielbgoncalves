@@ -12,11 +12,6 @@
 - **Experiência com JavaScript:** Phaser.js e p5.js
 - **Estudando CNNs** com MatLab
 
-### Algumas Ferramentas que Uso
-- Git & GitHub
-- VS Code
-- Intelli J
-
 ## Contato
 - **Email:** [44danbor@gmail.com.com](mailto:seuemail@exemplo.com)
 
