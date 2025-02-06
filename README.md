@@ -1,4 +1,4 @@
-# Olá, eu sou Daniel! 👋
+# Olá, eu sou o Daniel! 👋
 
 ## Sobre Mim
 - Brazil: **Mineiro** apaixonado por tecnologia.
@@ -12,10 +12,8 @@
 - **Experiência com JavaScript:** Phaser.js e p5.js
 - **Estudando CNNs** com MatLab
 
-## Contato
-- **Email:** [44danbor@gmail.com.com](mailto:seuemail@exemplo.com)
-
-
+### Contato
+- **Email:** [44danbor@gmail.com](mailto:seuemail@exemplo.com)
 
 <!---
 Danielbgoncalves/Danielbgoncalves is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
