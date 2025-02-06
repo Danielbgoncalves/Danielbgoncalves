@@ -1,11 +1,13 @@
- Olá, eu sou Daniel. Em busca de estágio para aplicar meus conhecimentos.
+##Olá, eu sou Daniel. 
 
+### Meus conhecimentos
  **Front-end:** HTML, CSS, JavaScript  
  **Back-end:** Node.js, Express.js, MongoDB, SQL  
  **Outras:** C, Haskell, C#, MIPS Assembly  
  **JS Libraries:** Phaser.js, p5.js  
- **Estudando:** CNNs com Matlab
+ **Estudando:** Java e CNNs com Matlab
 
+### Alguns destaques
 - [Matlab CNN](https://github.com/Danielbgoncalves/CNN-with-MATHLAB.git) Aplicação de CNN para identificação de classes
 - [IA Motorista](https://github.com/Danielbgoncalves/ia-motorista.git) IA que calcula melhor caminho até a chegada 
 
