@@ -1,6 +1,4 @@
- Mineiro apaixonado por tecnologia.
- Estudando Java, Matlab e CNNs.
- Em busca de estágio para aplicar meus conhecimentos.
+ Olá, eu sou Daniel. Em busca de estágio para aplicar meus conhecimentos.
 
  **Front-end:** HTML, CSS, JavaScript  
  **Back-end:** Node.js, Express.js, MongoDB, SQL  
