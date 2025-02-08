@@ -7,10 +7,10 @@
 
 #### Linguagens e Frameworks
 - **Front-end:** HTML, CSS, JavaScript  
-- **Back-end:** Node.js, Express.js, MongoDB, SQL  
+- **Back-end:** Node.js, Express.js e MongoDB
 - **Outras linguagens:** C, Haskell, C#, MIPS Assembly  
 - **Experiência com JavaScript:** Phaser.js e p5.js
-- **Estudando CNNs** com MatLab
+- **Estudando CNNs** com MatLab e TensorFlow
 
 ### Contato
 - **Email:** [44danbor@gmail.com](mailto:seuemail@exemplo.com)
