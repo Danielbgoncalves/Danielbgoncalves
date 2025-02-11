@@ -1,9 +1,9 @@
 # Olá, eu sou o Daniel! 👋
 
 ## Sobre Mim
-- Brazil: **Mineiro** apaixonado por tecnologia.
-- Aprendendo **Java** e **Matlab**.
-- Em busca de oportunidades de estágio para colocar em prática meus conhecimentos.
+- Brasil: **Mineiro** apaixonado por ver o código funcionando.
+- Aprendendo **Java**, **Matlab** e **Prolog**.
+- Em busca de um estágio!
 
 #### Linguagens e Frameworks
 - **Front-end:** HTML, CSS, JavaScript  
