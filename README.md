@@ -8,7 +8,7 @@
 #### Linguagens e Frameworks
 - **Front-end:** HTML, CSS, JavaScript  
 - **Back-end:** Node.js, Express.js e MongoDB
-- **Outras linguagens:** C, Haskell, C#, MIPS Assembly  
+- **Outras linguagens:** C, Haskell, C#, MIPS Assembly e Prolog!  
 - **Experiência com JavaScript:** Phaser.js e p5.js
 - **Estudando CNNs** com MatLab e TensorFlow
 
