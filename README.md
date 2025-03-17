@@ -1,7 +1,7 @@
 # Olá, eu sou o Daniel! 👋
 
 ## Sobre Mim
-- Brasil: **Mineiro** apaixonado por ver o código funcionando.
+- Brasil: **Mineiro** apaixonado em ver o código funcionando.
 - Aprendendo **Java**, **Matlab** e **Prolog**.
 - Em busca de um estágio!
 
