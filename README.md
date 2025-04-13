@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 - Brasil: **Mineiro** apaixonado em ver o código funcionando.
-- Aprendendo **Java**, **Matlab** e **Prolog**.
+- Aprendendo **Java**, **Matlab**, **Prolog** e **SQL**
 - Em busca de um estágio!
 
 #### Linguagens e Frameworks
