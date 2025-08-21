@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 - Brasil: **Mineiro** apaixonado em ver o código funcionando.
-- Aprendendo **Python**, **Matlab** e **CNNs** 
+- Aprendendo **Python**, **CNNs** e **Segmentação de imagens**
 - Em busca de um estágio!
 
 #### Linguagens e Frameworks
