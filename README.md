@@ -11,7 +11,7 @@
 - **Outras linguagens:** C, Haskell, C#, dotNet, e Java !
 - **Banco de dados:** PostegreSQL
 - **Experiência com JavaScript:** Phaser.js e p5.js
-- **Estudando CNNs** com MatLab e TensorFlow
+- **Estudando CNNs** com MatLab e PyTorch
 
 ### Contato
 - **Email:** [44danbor@gmail.com](44danbor@gmail.com)
